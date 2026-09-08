@@ -1,0 +1,12 @@
+1,Implementare GUI,Ana;Mihai,open
+2,Creare Repository,George,closed
+3,Validare date,Ana;Maria,closed
+4,Testare aplicatie,Mihai;George;Ion,inprogress
+5,Documentatie,Elena,closed
+6,Refactorizare cod,Ana;Ion,inprogress
+7,Implementare Service,Maria;George,open
+8,Corectare bug-uri,Elena;Mihai,closed
+9,Optimizare algoritm,Ana;George;Ion,inprogress
+10,Integrare baza de date,Maria;Elena,open
+17,Optimizare3,Ana;Maria,inprogress
+1,Examen,Ana;Maria,open
