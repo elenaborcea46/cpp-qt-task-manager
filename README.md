@@ -38,7 +38,7 @@ A desktop application for managing software developement tasks, built with C++ a
 ## Running the application
 1. Install Qt and Visual Studio with the Qt Visual Studio Tools extension.
 2. Configure a compatible Qt kit in Visual Studio.
-3. Open 'Examen.sln'.
+3. Open 'Examen.slnx'.
 4. Build and run the solution.
 
 ## Data
